@@ -1,0 +1,11 @@
+LIBRARY "DLL"
+EXPORTS
+sortSelect
+sortInsert
+sortBubble
+sortQuick
+sortInsertAsm
+sortSelectAsm
+sortBubbleAsm
+_sortQuickAsm
+sortQuickAsm
